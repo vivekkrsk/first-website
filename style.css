@@ -59,7 +59,7 @@
     border-radius: 9px;
 }
 .background{
-    background: rgba(0, 0, 0, 0.7) url(../img/carl-raw-m3hn2Kn5Bns-unsplash.jpg);
+    background: rgba(0, 0, 0, 0.7) url(carl-raw-m3hn2Kn5Bns-unsplash.jpg);
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -131,7 +131,7 @@
 
 .background2{
     width: 100%;
-    background: rgba(0, 0, 0, 0.7) url(../img/750378.jpg);
+    background: rgba(0, 0, 0, 0.7) url(750378.jpg);
     background-size: cover;
     padding: 50px 0;
     
